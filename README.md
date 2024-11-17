@@ -2,13 +2,13 @@
 
 ----
 
-php version
+php version 7
 
    Fixed, works fine with Zabbix [2.2 to 4.0]
 
 ----
 
-Java version: full Eclipse project, works fine
+Java version: full Eclipse project, looks like it works
 
    based on https://github.com/hengyunabc/zabbix-api
 
