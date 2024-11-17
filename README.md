@@ -1,5 +1,6 @@
 # zabbix-api
 
+Long time ago, in a Galaxy far away, was created this code for Monitoring automation
 ----
 
 php version 7
