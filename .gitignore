@@ -1,0 +1,3 @@
+/build
+*.class
+jz/src/keapi/passwd/ZabbixApiPasswd.java
